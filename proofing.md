@@ -90,3 +90,59 @@ Other features were scaled somewhere between these two, with Safety having `a` l
 (`the` 6th feature, Development, must have a much higher mean utility than `the` 8th feature, Competition)
 
 This result is indeed in line with the results for the utility means, where `the` Development mean was the highest at 1.04 and Competition was the lowest at 0.
+
+### CLASSICAL TEST THEORY AND RELIABILITY THEORY
+
+#### 5.3 Worked example; Step 3 para 4
+
+This will ensure that statistics in the output are given for the sum score (“cumulative” of item scores) rather than for the average score ~~(deafult)~~**(default)**.
+
+#### 5.3 Worked example; Step 3 Question 2
+
+“the proportion of variance in the observed score due to **the** true score”
+
+6.2; para 2
+
+On **the** contrary, the EPQ scales are measured...
+
+6.3 Worked example; Step 1; para 2
+
+*This suggestion is stylistic rather than the typos/ omissions I've generally listed - just to make it clear we're not passing the arguments at all if we're happy with the defaults*
+
+Other arguments all have defaults, so you ~~change~~specify them only if necessary.
+
+6.3 Worked example; Step 2; para 1
+
+Analyses in this ~~Exercise~~exercise will require...
+
+6.3 Worked example; Step 4
+
+Now let’s estimate the “internal consistency reliability” (Cronbach’s alpha) of the total score. We apply function alpha() from **the** psych package to all 23 items of the SDQ data frame. Like in Exercise 5, I suggest ~~to obtain~~obtaining output for the sum score (which we computed) rather than average score (deafult in alpha()).
+
+6.3 Worked example; Step 4; para under Question 4
+
+Yes, you can get these statistics without computing the test score ~~but~~ by just running function alpha().
+
+6.3 Worked example; Step 4; para above Question 5
+
+In the “Item statistics” section of the output, an interesting statistic...
+
+6.3 Worked example; Step 5; para 3
+
+Note that because you pass ~~to the function~~ the correlations **to the function** rather than the raw scores, no statistics for the “test score” can be computed and you cannot specify the type of score using **the** cumulative option.
+
+Part III. Test homogeneity and Single-Factor Model
+
+7.2 Worked example; step 2
+
+There is **a** Gender variable (0=male; 1=female), followed by...
+
+7.2 Worked example; step 2
+
+Kaiser (1975) table for interpreting MSA - first two twos need aligning.
+
+-- STEP 7 --
+
+"We are hoping to retain this hypothesis, therefore hoping for a **large** p-value, definitely p > 0.05, and hopefully larger."
+
+Is "large" the right word here? 
